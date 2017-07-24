@@ -1,0 +1,1 @@
+This is another test file that should be downloaded via the PULL command.
