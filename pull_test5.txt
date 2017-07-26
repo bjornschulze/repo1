@@ -1,1 +1,2 @@
 Testing pull by adding more files via github.
+Updating a file with this line, should cause update to repo via pull test.
